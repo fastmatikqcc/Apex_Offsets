@@ -1,1 +1,2 @@
-OFF_GLOW_HIGHLIGHTS = 0xb1db5a0; // [Miscellaneous]->HighlightSettings
+OFF_GLOW_HIGHLIGHTS = 0xb1db5a0; // ( NOT UPDATE )
+##### OFFSETS : 2024-11-05
